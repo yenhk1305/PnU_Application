@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.PnU_Application">
         <activity
+            android:name=".SignIn_Screen"
+            android:exported="true" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
