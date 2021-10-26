@@ -20,4 +20,11 @@
         android:layout_height="wrap_content"
         android:text="Đã Test123"
         android:textColor="#00BCD4"/>
+
+    <TextView
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Xin phép test nữa =)))"
+        android:textColor="#FF9800"/>
 </LinearLayout>
