@@ -20,4 +20,17 @@
         android:layout_height="wrap_content"
         android:text="Đã Test123"
         android:textColor="#00BCD4"/>
+
+    <TextView
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Hello"
+        android:textColor="#FF9800"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="123"
+        android:layout_gravity="center"/>
 </LinearLayout>
