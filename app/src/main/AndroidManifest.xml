@@ -4,25 +4,26 @@
 
     <application
         android:allowBackup="true"
-        android:icon="@mipmap/ic_launcher"
-        android:label="@string/app_name"
+        android:icon="@drawable/logo"
         android:roundIcon="@mipmap/ic_launcher_round"
+        android:label="PnU"
         android:supportsRtl="true"
         android:theme="@style/Theme.PnU_Application">
         <activity
             android:name=".Home_Screen"
-            android:exported="true" />
-        <activity
-            android:name=".SignIn_Screen"
-            android:exported="true"></activity>
-        <activity
-            android:name=".Notification_Blog_Screen"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
+        </activity>
+        <activity
+            android:name=".SignIn_Screen"
+            android:exported="true"></activity>
+        <activity
+            android:name=".Notification_Blog_Screen"
+            android:exported="true">
         </activity>
         <activity
             android:name=".MainActivity"
