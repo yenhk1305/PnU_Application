@@ -6,4 +6,9 @@
         <item>Thêm nhiều phụ kiện cho thú cưng</item>
         <item>Freeship cho đơn hàng từ 700k</item>
     </string-array>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="danh_muc_san_pham">Danh mục sản phẩm</string>
 </resources>
