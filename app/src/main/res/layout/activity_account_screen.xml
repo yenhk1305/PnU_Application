@@ -46,6 +46,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"/>
                 <Button
+                    android:id="@+id/btnUpdateInf"
                     android:textStyle="bold"
                     android:textSize="15sp"
                     android:textColor="@color/ink_02"
@@ -63,10 +64,22 @@
         android:orientation="vertical"
         android:layout_width="match_parent"
         android:layout_height="0dp">
-        <ListView
-            android:id="@+id/lvTaiKhoan"
+        <LinearLayout
+            android:padding="10dp"
             android:layout_weight="1"
+            android:orientation="vertical"
             android:layout_width="match_parent"
-            android:layout_height="0dp"/>
+            android:layout_height="0dp">
+            <TextView
+                android:text="Tài khoản:"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+            <ListView
+                android:layout_marginBottom="10dp"
+                android:id="@+id/lvTaiKhoan"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"/>
+        </LinearLayout>
+
     </LinearLayout>
 </LinearLayout>

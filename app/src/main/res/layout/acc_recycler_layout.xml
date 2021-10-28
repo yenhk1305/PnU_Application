@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+
+    android:orientation="horizontal"
+    android:layout_height="45dp">
+<ImageView
+    android:layout_marginLeft="5dp"
+    android:layout_gravity="center"
+    android:src="@drawable/act_ic_key"
+    android:layout_width="30dp"
+    android:layout_height="30dp"/>
+    <TextView
+        android:layout_weight="1"
+        android:layout_marginLeft="15dp"
+        android:layout_gravity="center"
+        android:textStyle="bold"
+        android:textColor="@color/ink_01"
+        android:textSize="25dp"
+        android:text="Doi mat khau"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+    <ImageView
+        android:layout_gravity="center"
+        android:src="@drawable/img"
+        android:layout_width="20dp"
+        android:layout_height="wrap_content"/>
+</LinearLayout>
