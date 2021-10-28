@@ -11,5 +11,13 @@
     <color name="primary_yellow">#F2CB05</color>
     <color name="price_tag">#F34646</color>
     <color name="available">#031BED</color>
+    <color name="yellow_01">#F7DC41</color>
+    <color name="yellow_02">#FBE767</color>
+    <color name="yellow_03">#FDF29A</color>
+    <color name="yellow_04">#FEF9CC</color>
+    <color name="ink_01">#666666</color>
+    <color name="ink_02">#B2B2B2</color>
+    <color name="ink_03">#E5E5E5</color>
+    <color name="ink_04">#F2F2F2</color>
 
 </resources>
