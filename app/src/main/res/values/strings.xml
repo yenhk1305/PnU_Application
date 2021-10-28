@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">PnU_Application</string>
+    <string name="app_name">PnU</string>
     <string-array name="arrThongBao">
         <item>Săn mã giảm giá 9/9</item>
         <item>Thức ăn cho chó đang đồng loạt giảm giá</item>

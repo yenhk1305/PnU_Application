@@ -7,5 +7,9 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="default_color">#CCCAC2</color>
     <color name="primary_yellow">#F2CB05</color>
+    <color name="price_tag">#F34646</color>
+    <color name="available">#031BED</color>
+
 </resources>

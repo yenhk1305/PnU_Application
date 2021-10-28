@@ -5,8 +5,8 @@
 
     <ImageView
         android:id="@+id/imvThumb"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_width="393dp"
+        android:layout_height="180dp"
         android:src="@drawable/banner_1" />
 
 
